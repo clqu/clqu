@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:me@clqu.live)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=clqu)
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=clqu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
 <div align="left" width="100%">
    
@@ -23,6 +23,6 @@
 <br />
 <br />
 <div align="center" width="100%">
-   <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-   <img align="right" width="45%" src="https://activity-graph.herokuapp.com/graph?username=clqu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=clqu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+   <img align="right" width="50%" src="https://activity-graph.herokuapp.com/graph?username=clqu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 </div>
