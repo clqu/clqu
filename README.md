@@ -5,24 +5,24 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:me@clqu.live)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=clqu)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=clqu&show_icons=true&hide_border=true">
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=clqu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 
+<div align="left" width="100%">
+   
 ## 🧐 About
 
+- Hi, I'm clqu. I am a 2nd year high school student and I have been spending time with codes for about 2-3 years. I really dont know anything more about me.
 - 👨‍💻 Website: http://clqu.live
 - 📫 How to reach me: me@clqu.live
-- 🌱 Technologies: 
+  
+## ⚙️ Technologies I use
+   
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,php,tailwindcss,nestjs,mongodb,heroku,github,alpinejs,arduino,bootstrap,git,go,ps,sqlite,mysql,nodejs,prisma,sass,webpack,react,express&theme=dark" />
+</div>
 
-<div>
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/html.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/javascript.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/react.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/css.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/php.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/typescript.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/nestjs.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/tailwindcss.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/mongodb.svg">
-   <img height="20" src="https://raw.githubusercontent.com/clqu/clqu.live/v2/public/static/techs/mysql.svg">
-
+<br />
+<br />
+<div align="center" width="100%">
+   <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+   <img align="right" width="45%" src="https://activity-graph.herokuapp.com/graph?username=clqu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 </div>
