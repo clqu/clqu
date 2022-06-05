@@ -1,3 +1,6 @@
+<br />
+<br />
+
 # 𝗛𝗲𝗹𝗹𝗼 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/this.clqu)](https://instagram.com/this.clqu)
@@ -15,14 +18,21 @@
 - 👨‍💻 Website: http://clqu.live
 - 📫 How to reach me: me@clqu.live
   
+<br />
+   
 ## ⚙️ Technologies I use
    
 <img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,php,tailwindcss,nestjs,mongodb,heroku,github,alpinejs,arduino,bootstrap,git,go,ps,sqlite,mysql,nodejs,prisma,sass,webpack,react,express&theme=dark" />
 </div>
 
 <br />
-<br />
+
+## ✨ Stats
+
 <div align="center" width="100%">
    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=clqu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
    <img align="right" width="50%" src="https://activity-graph.herokuapp.com/graph?username=clqu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 </div>
+
+<br />
+<br />
