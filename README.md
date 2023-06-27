@@ -38,6 +38,7 @@
 <div>
    <a href="https://instagram.com/notclqu"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
    <a href="https://twitter.com/@notclqu"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://www.linkedin.com/in/clqu/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
    <a href="https://discord.com/users/714451348212678658"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
