@@ -13,8 +13,8 @@
 
 - Hey, clqu is talking. 17 y/o, 3rd high school student, spends most of the day developing, in spare time he goes to school ✌
 
-- 👨‍💻 Website: https://clqu.me
-- 📫 How to reach me: root@clqu.me
+- 👨‍💻 Website: https://clqu.dev
+- 📫 How to reach me: root@clqu.dev
   
 <br />
    
