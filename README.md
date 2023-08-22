@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/this.clqu)](https://instagram.com/notclqu)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/clquu_)](https://twitter.com/clquu_)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:me@clqu.live)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:mail@clqu.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=clqu)
 
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
@@ -14,7 +14,7 @@
 - Hey, clqu is talking. 17 y/o, 3rd high school student, spends most of the day developing, in spare time he goes to school ✌
 
 - 👨‍💻 Website: https://clqu.dev
-- 📫 How to reach me: root@clqu.dev
+- 📫 How to reach me: mail@clqu.dev
   
 <br />
    
