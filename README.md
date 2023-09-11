@@ -20,17 +20,24 @@
    
 ## ⚙️ Technologies I use
    
-### Development
-<img src="https://skillicons.dev/icons?i=go,js,ts,java,py,php,html,css,sass,jquery,tailwind,bootstrap,materialui,nodejs,express,react,nextjs,gatsby,nestjs,alpinejs,webpack&theme=dark" />
-</div>
+### Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,php,cs&theme=dark" />
+
+### Markup Languages
+<img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,gatsby,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql&theme=dark" />
+
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,prisma,firebase&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite&theme=dark" />
 
 ### Services
-<img src="https://skillicons.dev/icons?i=github,netlify,vercel,heroku&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,cloudflare,heroku,replit&theme=dark" />
+
+### Other
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,sentry,figma,ps&theme=dark" />
 
 <br />
 
