@@ -11,7 +11,7 @@
    
 ## 🧐 About
 
-- Hey, clqu is talking. 17 y/o, 3rd high school student, spends most of the day developing, in spare time he goes to school ✌
+- Hey, clqu is talking. 17 y/o, 4th high school student, spends most of the day developing, in spare time he goes to school ✌
 
 - 👨‍💻 Website: https://clqu.dev
 - 📫 How to reach me: mail@clqu.dev
