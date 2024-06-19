@@ -10,8 +10,7 @@
 <div align="left" width="100%">
    
 ## 🧐 About
-
-- Hey, clqu is talking. 17 y/o, 4th high school student, spends most of the day developing, in spare time he goes to school ✌
+~ https://clqu.dev/about
 
 - 👨‍💻 Website: https://clqu.dev
 - 📫 How to reach me: mail@clqu.dev
