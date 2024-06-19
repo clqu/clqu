@@ -56,9 +56,6 @@
 
 <br />
 
-## 🎧 What am I listening to?
-![spotify-clqu](https://spotify-github-profile.vercel.app/api/view?uid=31vdli3io7phafmn4q2drwteajzu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
-
 ## ✨ Stats
 
 <div width="100%">
